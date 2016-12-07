@@ -1,0 +1,4 @@
+platform :ios, '7.0'
+target "XIB" do
+pod 'SDWebImage','~> 3.7.3'
+end
